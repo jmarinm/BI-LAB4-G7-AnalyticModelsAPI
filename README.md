@@ -1,8 +1,8 @@
 # Inteligencia de Negocios Laboratorio 4
 ## Grupo 7
-- Juan Carlos Marin 
-- Kevin Cohen Solano
-- Juan Felipe Castro
+- Juan Carlos Marín Morales - 202013973
+- Kevin Cohen Solano – 202011864 
+- Juan Felipe Castro Vanegas – 201818130
 
 ## Instrucciones
 
